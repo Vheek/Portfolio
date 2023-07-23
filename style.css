@@ -95,7 +95,7 @@ ul li a:hover{
 }
 
 .image{
-  width 30%;
+  width: 30%;
   height: 80%;
   position: absolute;
   right: 50px;
@@ -112,7 +112,7 @@ ul li a:hover{
 }
 
 .image:hover .boy{
-  left 20%;
+  left: 20%;
 }
 
 .icons a{
