@@ -105,14 +105,13 @@ ul li a:hover{
 .image img{
   position: absolute;
   height: 100%;
-  right: 20%;
-  transform: translate(-20%);
+  right: 5%;
   bottom: 0;
-  transition: left 2s ease;
 }
 
 .image:hover .boy{
-  left: 20%;
+  right: 2%;
+  transition: left 2s ease;
 }
 
 .icons a{
